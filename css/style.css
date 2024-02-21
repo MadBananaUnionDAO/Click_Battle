@@ -19,8 +19,7 @@ h3, h4 {
 
 .button {
     margin: 0 auto;
-    background-image: url('button-bg.jpg'); /* Replace with the path to your button background image */
-}
+    background-image: url('/pic/bomb.gif'); 
 
 input, label {
     text-align: center;
